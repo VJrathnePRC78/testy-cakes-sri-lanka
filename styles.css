@@ -10,3 +10,18 @@
 .cake-picture{
     float: right;
 }
+
+.price-list-heading{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.price-list-table{
+    border: 1px solid black;
+    width: 100%;
+}
+
+th, td{
+    text-align: left;
+    padding: 10px;
+}
