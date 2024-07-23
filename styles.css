@@ -1,3 +1,8 @@
+body{
+    background-color: #e6f3ff;
+    padding: 12%;
+}
+
 .message{
     color: blueviolet;
     font-style: italic;
@@ -7,8 +12,8 @@
     color: brown;
 }
 
-.cake-picture{
-    float: right;
+.cake-picture-container{
+    text-align: right;
 }
 
 .price-list-heading{
@@ -23,7 +28,7 @@
 
 th, td{
     text-align: left;
-    padding: 10px;
+    padding: 16px;
 }
 
 footer{
@@ -40,6 +45,5 @@ footer{
     font-family: 'Times New Roman';
     font-size: 10px;
     padding: 3px;
-
 }
 
